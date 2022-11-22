@@ -1,0 +1,97 @@
+.container {
+  position: absolute;
+  height: 500px;
+  width: 500px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+}
+
+.login-but {
+  text-align: center;
+}
+
+.register-but {
+  text-align: center;
+}
+
+.login {
+  background-color: rebeccapurple;
+  border: none;
+  color: wheat;
+  height: 50px;
+  width: 210px;
+
+}
+
+.register {
+  background-color: rebeccapurple;
+  border: none;
+  color: wheat;
+  height: 50px;
+  width: 210px;
+}
+
+a {
+  position: relative;
+  display: block;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 25px;
+  text-align: center;
+}
+
+.login-but {
+  background-color: rebeccapurple;
+  border: none;
+
+  height: 50px;
+  width: 210px;
+
+}
+
+a {
+  position: relative;
+  display: block;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 25px;
+  text-align: center;
+}
+
+.register-form {
+  text-align: center;
+}
+
+.field-but {
+  background-color: rebeccapurple;
+  border: none;
+  color: aliceblue;
+  height: 50px;
+  width: 90px;
+  cursor: pointer;
+}
+
+label {
+  color: rgb(71, 31, 110);
+  font: bold;
+  font-size: 17pt;
+}
+
+fieldset {
+  border: none;
+  background-color: rgb(147, 63, 225);
+  text-align: center;
+}
+
+input {
+  background-color: rgb(169, 124, 212);
+  color: rgb(0, 0, 0);
+}
+
+label {
+  text-align: left;
+}
